@@ -1,4 +1,5 @@
-# D-O-PowerBI
+# DIO-PowerBI   
 
-1. Desafio de Dashboards
-2. Relatório interativo desenvolvido utilizando PowerBI para cumprir o desafio proposto no Bootcamp Santander da DIO.
+Repositorio para armazenar o projeto desenvolvido no Santander Bootcamp 2023 de desenvolvimento de Power Bi em analises de Dashborads.
+
+## Dashboards
